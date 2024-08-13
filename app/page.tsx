@@ -20,6 +20,7 @@ export default function Home() {
       <Contact />
       <Spacing size="md" />
       <Footer />
+      <Footer />
     </main>
   );
 }
