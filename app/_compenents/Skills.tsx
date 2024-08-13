@@ -4,7 +4,7 @@ import { Code } from "./Code";
 import { Section } from "./Section";
 import { ReactLogo } from "./icons/ReactLogo";
 import { Tailwinlogo } from "./icons/Tailwinlogo";
-import { VercelLogo } from "./icons/Vercellogo";
+import { VercelLogo } from "./icons/VercelLogo";
 
 export const Skills = () => {
   return (
